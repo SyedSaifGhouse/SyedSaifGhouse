@@ -1,16 +1,16 @@
 # Hi there, I'm Syed Saif! 👋
 
-### 🚀 Aspiring Full Stack Developer | AI & Data Science Undergraduate
+### 💻 Aspiring Web Developer | Data Analyst | AI & Data Science Undergraduate
 
-Welcome to my GitHub corner! I'm a technology enthusiast who loves exploring new ideas, learning new things, and turning creative thoughts into digital experiences.
+Welcome to my GitHub corner! 🚀 I'm passionate about technology, exploring new ideas, and creating solutions that make a difference. I enjoy building websites, working with data, and turning ideas into meaningful digital experiences.
 
-- 🔭 Currently working on improving my web development skills and building projects.
-- 🌱 Learning Full Stack Development and exploring new technologies.
-- 👯 Looking to collaborate on interesting web development and innovative tech projects.
-- 🤝 Always open to learning from others and discovering better ways to build things.
-- 💬 Ask me about my projects, coding journey, or ideas!
+- 🔭 Currently working on web development and data analytics projects.
+- 🌱 Learning Full Stack Development, data analysis, and new technologies.
+- 👯 Looking to collaborate on web development and data-driven projects.
+- 🤝 Always excited to learn, share ideas, and work with creative minds.
+- 💬 Ask me about my projects, coding journey, or tech interests!
 - 📫 Reach me at: **syedsaifghouse2006@gmail.com**
-- ⚡ Fun fact: Every expert was once a beginner who never stopped learning!
+- ⚡ Fun fact: I believe learning never stops, and every project teaches something new!
 
 ---
 
@@ -24,6 +24,8 @@ Welcome to my GitHub corner! I'm a technology enthusiast who loves exploring new
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -59,6 +61,8 @@ Welcome to my GitHub corner! I'm a technology enthusiast who loves exploring new
 
 ### 🎯 My Goal
 
-To keep learning, keep building, and turn ideas into something meaningful. One project at a time! 💻
+To build meaningful digital experiences, turn data into insights, and continuously grow as a developer and analyst.
 
-⭐ **Thanks for visiting my profile! Keep coding and keep creating!** 🚀
+**Learn. Build. Analyze. Innovate. Repeat.** 🚀
+
+⭐ Thanks for visiting my profile! Happy Coding!
