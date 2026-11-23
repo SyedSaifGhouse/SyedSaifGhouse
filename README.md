@@ -41,16 +41,24 @@ Welcome to my GitHub corner! I'm a technology enthusiast who loves exploring new
 
 ---
 
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-saif-0a169132a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SyedSaifGhouse">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:syedsaifghouse2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🎯 My Goal
 
 To keep learning, keep building, and turn ideas into something meaningful. One project at a time! 💻
 
-### 🌐 Let's Connect!
-
-📧 Email: syedsaifghouse2006@gmail.com
-
-💻 GitHub: [@SyedSaifGhouse](https://github.com/SyedSaifGhouse)
-
----
-
-⭐ **Thanks for visiting my profile! Keep coding and keep creating!**
+⭐ **Thanks for visiting my profile! Keep coding and keep creating!** 🚀
